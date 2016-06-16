@@ -28,3 +28,16 @@ Query Builder
 
 - listar registros usando código SQL nativo
 - crear modelos y CRUD usando la herramienta gii
+
+Clase 7
+=======
+
+Registro de usuarios
+
+Clase 8
+=======
+
+Reglas de validación
+--------------------
+
+Validaciones tipo entero, único, string, numérico, escenarios, validaciones personalizadas
